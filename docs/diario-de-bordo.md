@@ -5,3 +5,5 @@
 15:00-fui pro intervalo.
 15:30-voltei do intervalo.
 16:00-entendi o projeto, comecei a fazer.
+16:40-primeiro commit com a base do projeto.
+16:50-commit final da versão 1.0.
